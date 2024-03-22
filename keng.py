@@ -1,0 +1,2 @@
+print("Stupi...")
+print("Aiasdasdas")
