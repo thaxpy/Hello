@@ -1,1 +1,1 @@
-print("ai sus dear")
+print("kk")
